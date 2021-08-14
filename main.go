@@ -19,5 +19,6 @@ import "github.com/gitpod/mycli/cmd"
 
 func main() {
 	// Este é um teste de alteração no GitPod com commit
+	// Nova linha incluida
 	cmd.Execute()
 }
