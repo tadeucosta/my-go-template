@@ -18,5 +18,6 @@ package main
 import "github.com/gitpod/mycli/cmd"
 
 func main() {
+	// Este é um teste de alteração no GitPod com commit
 	cmd.Execute()
 }
